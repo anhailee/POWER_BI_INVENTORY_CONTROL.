@@ -48,7 +48,7 @@ Dataset access:
 
 ![image](https://github.com/anhailee/Image/assets/150501087/1c9432dc-52bb-4275-88c1-9f4265dbdecd)
 
-**1. Product Detail Information Dasboard**
+**3. Product Detail Information Dasboard**
 
 ![image](https://github.com/anhailee/Image/assets/150501087/1781f8bf-6438-4a42-b0b9-1f637f796668)
 
